@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2026-02-14T08:34:24.724997",
+        "user_uuid": "151A4C27-6231-44C2-960E-DD69FBAA71A7",
+        "user_message": "hi",
+        "model_response": "Hello, Masood! \ud83d\udc4b How can I assist you today?",
+        "model_used": "openai/gpt-oss-120b"
+    }
+]

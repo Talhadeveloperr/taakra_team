@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "2026-02-12T21:06:28.336114",
+        "user_uuid": "u11111",
+        "user_message": "hi",
+        "model_response": "Hello! How can I assist you with the data in the **port** or **report** tables today?",
+        "model_used": "openai/gpt-oss-120b"
+    },
+    {
+        "timestamp": "2026-02-12T21:06:49.261082",
+        "user_uuid": "u11111",
+        "user_message": "what is the schema of report table ",
+        "model_response": "**Schema of the `report` table**\n\n| Column Name | Data Type | Is Nullable | Default Value |\n|-------------|-----------|------------|---------------|\n| id          | int       | YES        | (none) |\n| name        | varchar   | YES        | (none) |\n\nThese are the only columns defined for the `report` table in the database.",
+        "model_used": "openai/gpt-oss-120b"
+    }
+]

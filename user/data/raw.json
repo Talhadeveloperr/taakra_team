@@ -1,0 +1,37 @@
+[
+    {
+        "timestamp": "2026-02-12T19:31:23.777370",
+        "user_uuid": "11111",
+        "user_message": "hi",
+        "model_response": "Hello! \ud83d\udc4b How can I assist you today?",
+        "model_used": "openai/gpt-oss-120b"
+    },
+    {
+        "timestamp": "2026-02-12T19:31:50.650248",
+        "user_uuid": "11111",
+        "user_message": "what was my previous question",
+        "model_response": "Your most recent message before this one was just a greeting:\n\n**You wrote:** \u201chi\u201d\n\nThat wasn\u2019t a question, but I\u2019m happy to help with anything you\u2019d like to ask now!",
+        "model_used": "openai/gpt-oss-120b"
+    },
+    {
+        "timestamp": "2026-02-12T21:06:28.336114",
+        "user_uuid": "u11111",
+        "user_message": "hi",
+        "model_response": "Hello! How can I assist you with the data in the **port** or **report** tables today?",
+        "model_used": "openai/gpt-oss-120b"
+    },
+    {
+        "timestamp": "2026-02-12T21:06:49.261082",
+        "user_uuid": "u11111",
+        "user_message": "what is the schema of report table ",
+        "model_response": "**Schema of the `report` table**\n\n| Column Name | Data Type | Is Nullable | Default Value |\n|-------------|-----------|------------|---------------|\n| id          | int       | YES        | (none) |\n| name        | varchar   | YES        | (none) |\n\nThese are the only columns defined for the `report` table in the database.",
+        "model_used": "openai/gpt-oss-120b"
+    },
+    {
+        "timestamp": "2026-02-14T08:34:24.724997",
+        "user_uuid": "151A4C27-6231-44C2-960E-DD69FBAA71A7",
+        "user_message": "hi",
+        "model_response": "Hello, Masood! \ud83d\udc4b How can I assist you today?",
+        "model_used": "openai/gpt-oss-120b"
+    }
+]

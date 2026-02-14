@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2026-02-11T21:11:15.588404",
+    "user_id": "user_123",
+    "user_message": "How many members are in your group?",
+    "retrieved_chunk_ids": [
+      0
+    ],
+    "model_response": "There are 3 members in our group including Talha Khalid,Masood Subhani,Arab Hussain",
+    "model_used": "local_llm_v1"
+  },
+  {
+    "timestamp": "2026-02-12T10:36:03.203842",
+    "user_id": "111.68.104.143",
+    "user_message": "hi",
+    "retrieved_chunk_ids": [],
+    "model_response": "Hey there! 😊 How can I help you today?",
+    "model_used": "gpt-oss-120b"
+  },
+  {
+    "timestamp": "2026-02-12T10:36:15.959371",
+    "user_id": "111.68.104.143",
+    "user_message": "how many members are in your group",
+    "retrieved_chunk_ids": [],
+    "model_response": "Hey! 😊 I’m just a single AI model, so there isn’t a “group” of members behind me. Think of me as one friendly chatbot ready to help you out! 👍",
+    "model_used": "gpt-oss-120b"
+  },
+  {
+    "timestamp": "2026-02-12T10:37:15.070499",
+    "user_id": "111.68.104.143",
+    "user_message": "how many members are in your group",
+    "retrieved_chunk_ids": [],
+    "model_response": "Hey! 😊 I’m just one AI—no team of members behind me. I’m here solo to help you out! 👍",
+    "model_used": "gpt-oss-120b"
+  }
+]

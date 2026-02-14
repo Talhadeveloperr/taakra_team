@@ -1,0 +1,19 @@
+# Sentence Transformers
+sentence-transformers==2.2.2
+
+# PyTorch CPU (Windows)
+torch==2.10.0
+torchvision==0.13.1
+torchaudio==2.10.0
+
+# FAISS CPU for vector storage
+faiss-cpu==1.7.4
+
+# Numpy for embeddings
+numpy==1.26.0
+
+# Flask for API
+Flask==2.3.3
+
+# Optional utilities
+tqdm==4.66.1
